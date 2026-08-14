@@ -1,5 +1,8 @@
 # Book Parser & Analyzer
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+
 Python-проєкт: парсер збирає 1000 книжок із 50 сторінок сайту
 books.toscrape.com, аналізатор знаходить найкращі пропозиції.
 
